@@ -16,7 +16,7 @@ More details of this challenge are available here: https://ai.ppdai.com/mirror/s
 | :-------------: | :------------: | :-------:  |
 | 10:00-10:20 | AI-Driven Financial Evolution: Beyond Forecasting | Lei CHEN |
 | 10:20-10:40 | Overview of FinVolution Global Data Science Competition’s 10-Year Journey	 | Chunping WANG |
-| 10:40-10:55	 | 2025 Visual Deepfake Detection Challenge Statement | Qiyi LI|
+| 10:40-10:55	 | 2025 Deepfake Face Detection Challenge Statement | Qiyi LI|
 | 10:55-11:40  | Excellent Proposals Sharing | Award-winning teams |
 | 11:40-11:55 | Preview of Next Competition Topic: Voicebots and Their Challenges | Boyi NI |
 | 11:55-12:05 | 	Q&A/Open Discussion	 | |
