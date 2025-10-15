@@ -14,12 +14,12 @@ More details of this challenge are available here: https://ai.ppdai.com/mirror/s
 *COEX Convention & Exhibition Center, Seoul, Korea*
 |           TIME       |    THEME    | SPEAKER |
 | :-------------: | :------------: | :-------:  |
-| 10:00-10:20  | AI-Driven Financial Evolution: Beyond Forecasting | Lei CHEN |
-| 10:20-10:40  | Overview of FinVolution Global Data Science Competition’s 10-Year Journey	 | Chunping WANG |
-| 10:40-10:55 	 | 2025 Deepfake Face Detection Challenge Statement | Qiyi LI|
-| 10:55-11:40   | Excellent Proposals Sharing | Award-winning Teams |
-| 11:40-11:55  | Preview of Next Competition Topic: Voicebots and Their Challenges | Boyi NI |
-| 11:55-12:05  | 	Q&A/Open Discussion	 | |
+| 10:00-10:20   | AI-Driven Financial Evolution: Beyond Forecasting | Lei CHEN |
+| 10:20-10:40   | Overview of FinVolution Global Data Science Competition’s 10-Year Journey	 | Chunping WANG |
+| 10:40-10:55  	 | 2025 Deepfake Face Detection Challenge Statement | Qiyi LI|
+| 10:55-11:40    | Excellent Proposals Sharing | Award-winning Teams |
+| 11:40-11:55   | Preview of Next Competition Topic: Voicebots and Their Challenges | Boyi NI |
+| 11:55-12:05   | 	Q&A/Open Discussion	 | |
 
 #### SPEAKER INFORMATION 
 - **Lei CHEN**, Vice President&Head of FinV Lab at FinVolution Group, holds a Master's degree from Shanghai Jiao Tong University and is currently pursuing a Ph.D. at Peking University, has over 15 years of experience in data analysis and modeling.
