@@ -1,3 +1,5 @@
+<img src="https://youke1.picui.cn/s1/2025/10/17/68f1e9aa7bae1.png" width="20%">
+
 # FinVolution Data Science Competition Workshop
 ### Deepfake Face Detection Challenge
 ##### Held in conjunction with CIKM'25, November 14, 2025, Seoul, Korea
