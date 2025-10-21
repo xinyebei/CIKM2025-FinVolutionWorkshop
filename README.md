@@ -11,7 +11,7 @@ As synthetic media becomes more widespread and sophisticated, the ability to acc
 More details of this challenge are available here: https://ai.ppdai.com/mirror/show 
 
 ## SCHEDULE
-*November 14, 2025, 10:00am–12:05am (KST)*
+*November 14, 2025, 10:00–12:10 (KST)*
 
 *COEX Convention & Exhibition Center, Seoul, Korea*
 |           TIME       |    THEME    | SPEAKER |
