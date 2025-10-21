@@ -17,16 +17,18 @@ More details of this challenge are available here: https://ai.ppdai.com/mirror/s
 |           TIME       |    THEME    | SPEAKER |
 | :-------------: | :------------: | :-------:  |
 | 10:00-10:20   | AI-Driven Financial Evolution: Beyond Forecasting | Lei CHEN |
-| 10:20-10:40   | Overview of FinVolution Global Data Science Competition’s 10-Year Journey	 | Chunping WANG |
-| 10:40-10:55  	 | 2025 Deepfake Face Detection Challenge Statement | Qiyi LI|
-| 10:55-11:40    | Excellent Proposals Sharing | Award-winning Teams |
-| 11:40-11:55   | Preview of Next Competition Topic: Voicebots and Their Challenges | Boyi NI |
-| 11:55-12:05   | 	Q&A/Open Discussion	 | |
+| 10:20-10:30   | Overview of FinVolution Global Data Science Competition’s 10-Year Journey	 | Chunping WANG |
+| 10:30-10:45  	 | 2025 Deepfake Face Detection Challenge Statement | Qiyi LI|
+| 10:45-11:30    | Excellent Proposals Sharing | Award-winning Teams |
+| 11:30-11:45    | Summary and Analysis of Winning Proposals | Yangjun MAO |
+| 11:45-12:00   | A Perspective on Future Competition: Voicebots and Their Challenges | Boyi NI |
+| 12:00-12:10   | 	Q&A/Open Discussion	 | |
 
 #### SPEAKER INFORMATION 
-- **Lei CHEN**, Vice President&Head of FinV Lab at FinVolution Group, holds a Master's degree from Shanghai Jiao Tong University and is currently pursuing a Ph.D. at Peking University, has over 15 years of experience in data analysis and modeling.
+- **Lei CHEN**, Vice President&Head of FinV Lab at FinVolution Group, holds a master's degree from Shanghai Jiao Tong University and is currently pursuing a Ph.D. at Peking University, has over 15 years of experience in data analysis and modeling.
 - **Chunping WANG**, Chief Scientist at FinVolution Group, holds a Ph.D. degree from Duke University, with expertise in research and application of multimodal data processing technologies.
-- **Qiyi LI**, Visual Algorithm Senior Expert at FinVolution Group, holds a Master's degree from Shanghai Jiao Tong University, with expertise in OCR and facial recognition-related algorithms and applications.
+- **Qiyi LI**, Visual Algorithm Senior Expert at FinVolution Group, holds a master's degree from Shanghai Jiao Tong University, with expertise in OCR and facial recognition-related algorithms and applications.
+- **Yangjun MAO**, Visual Algorithm Engineer at FinVolution Group, holds a master's degree from Zhejiang University, with expertise in computer vision and multimodality.
 - **Boyi NI**, Algorithm Scientist at FinVolution Group, holds a Ph.D. degree from Tsinghua University, with expertise in research and application of NLP technologies.
 
 ### ORGANIZER
