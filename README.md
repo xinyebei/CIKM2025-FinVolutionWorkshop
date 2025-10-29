@@ -19,7 +19,7 @@ More details of this challenge are available here: https://ai.ppdai.com/mirror/s
 | 10:00-10:20   | AI-Driven Financial Evolution: Beyond Forecasting | Lei CHEN |
 | 10:20-10:30   | Overview of FinVolution Global Data Science Competition’s 10-Year Journey	 | Chunping WANG |
 | 10:30-10:45  	 | 2025 Deepfake Face Detection Challenge Statement | Qiyi LI|
-| 10:45-11:30    | Excellent Proposals Sharing | Award-winning Teams |
+| 10:45-11:30    | Excellent Proposals Sharing | Kaipeng Zheng/Junyang Ding/Shihang LI|
 | 11:30-11:45    | Summary and Analysis of Winning Proposals | Yangjun MAO |
 | 11:45-12:00   | A Perspective on Future Competition: Voicebots and Their Challenges | Boyi NI |
 | 12:00-12:10   | 	Q&A/Open Discussion	 | |
@@ -30,6 +30,9 @@ More details of this challenge are available here: https://ai.ppdai.com/mirror/s
 - **Qiyi LI**, Visual Algorithm Senior Expert at FinVolution Group, holds a master's degree from Shanghai Jiao Tong University, with expertise in OCR and facial recognition-related algorithms and applications.
 - **Yangjun MAO**, Visual Algorithm Engineer at FinVolution Group, holds a master's degree from Zhejiang University, with expertise in computer vision and multimodality.
 - **Boyi NI**, Algorithm Scientist at FinVolution Group, holds a Ph.D. degree from Tsinghua University, with expertise in research and application of NLP technologies.
-
+- **Kaipeng Zheng**，currently pursuing a Ph.D. at Shanghai Innovation Institute, pursuing excellence in practical AI technologies.
+- **Junyang Ding**，MSc in Computer Science at the University of Malaya, Kaggle Competitions Master focusing on deep learning and multimodal AI.
+- **Shihang LI**, Algorithm Engineer at Guangdong Laboratory of Artificial Intelligence and Digital Economy (SZ), holds a master's degree from China University of Geosciences (Wuhan), with expertise in computer vision.
+  
 ### ORGANIZER
 <img src="https://youke1.picui.cn/s1/2025/10/15/68ef71ee94c22.png" width="30%">  
